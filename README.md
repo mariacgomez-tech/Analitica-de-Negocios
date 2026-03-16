@@ -1,2 +1,2 @@
 # Analitica-de-Negocios
-Aquí se encuentra una serie de modelos desarrollados en Google Colab que se relacionan con analítica de negocios.
+Aquí se encuentran diferentes modelos y análisis enfocados en analítica de negocios, desarrollados en Google Colab. Incluye exploración y preparación de datos, así como la implementación de modelos de machine learning orientados a clasificación y predicción. El objetivo es aplicar técnicas de análisis de datos para identificar patrones, generar insights y apoyar la toma de decisiones en contextos empresariales.
